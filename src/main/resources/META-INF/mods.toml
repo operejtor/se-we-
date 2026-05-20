@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="plneconomy"
+version="1.0.0"
+displayName="PLN Economy"
+description='''
+PLN economy system scaffold.
+'''
